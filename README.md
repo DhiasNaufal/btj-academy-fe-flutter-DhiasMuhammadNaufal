@@ -21,3 +21,5 @@ btj-Academy-fe-flutter/
 - file `listCard-exercise` merupakan file latihan saat kelas berlangsung.
 
 ## Demo
+https://github.com/DhiasNaufal/btj-academy-fe-flutter-DhiasMuhammadNaufal/assets/91380628/a8a17255-2182-4aee-8047-0aaddc6485dc
+
